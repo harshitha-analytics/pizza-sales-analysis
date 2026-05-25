@@ -24,7 +24,10 @@ This project analyzes pizza sales data using SQL and Power BI to identify sales 
 * Classic category contributed the highest sales and total orders.
 * Large-size pizzas generated maximum revenue contribution.
 
-## Dashboard Features
+## Dashboard preview
+<img width="624" height="338" alt="PizzaSalesReport" src="https://github.com/user-attachments/assets/fab48fc8-d071-4eaa-ab70-dd9438fbbcbd" />
+
+
 
 * KPI Cards
 * Daily & Monthly Sales Trends
